@@ -283,22 +283,25 @@ Computer Science Fundamentals
   students, and technology enthusiasts.
 </p>
 
-<p align="center">
+## 🤝 Let's Connect
+
+---
+
+<p align="left">
 
 <a href="https://github.com/myat-thu-hein">
-  <img src="https://img.shields.io/badge/GitHub-myat--thu--hein-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/◉%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/myat-thu-hein-56a6a1383/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<a href="mailto:myatthuhein2883@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
-
 <p align="center">
   <i>Open to learning, collaboration, and new opportunities.</i>
 </p>
