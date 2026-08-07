@@ -287,19 +287,15 @@ Computer Science Fundamentals
 <p align="center">
 
   <a href="https://github.com/myat-thu-hein">
-    <img src="https://img.shields.io/badge/GitHub-myat--thu--hein-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/myat-thu-hein-56a6a1383/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:myatthuhein2883@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
 </p>
