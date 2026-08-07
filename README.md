@@ -282,8 +282,6 @@ Computer Science Fundamentals
   I'm always interested in connecting with other developers,
   students, and technology enthusiasts.
 </p>
----
-
 <p align="left">
 
 <a href="https://github.com/myat-thu-hein">
@@ -297,7 +295,6 @@ Computer Science Fundamentals
 <a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfolio"/>
 </a>
-
 </p>
 <p align="center">
   <i>Open to learning, collaboration, and new opportunities.</i>
