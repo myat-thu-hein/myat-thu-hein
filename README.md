@@ -289,7 +289,7 @@ Computer Science Fundamentals
 <p align="center">
 
 <a href="https://github.com/myat-thu-hein">
-  <img src="https://img.shields.io/badge/GitHub-myat--thu--hein-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/"/>
 </a>
 
 <a href="https://www.linkedin.com/in/myat-thu-hein-56a6a1383/">
