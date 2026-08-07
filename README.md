@@ -275,17 +275,37 @@ Computer Science Fundamentals
                 ├── Tailwind CSS
                 └── React
 
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  I'm always interested in connecting with other developers,
+  students, and technology enthusiasts.
+</p>
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=myat-thu-hein&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <a href="https://github.com/myat-thu-hein">
+    <img src="https://img.shields.io/badge/GitHub-myat--thu--hein-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myat-thu-hein&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-</p> <p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<img src="https://streak-stats.demolab.com?user=myat-thu-hein&theme=tokyonight&hide_border=true" />
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
 </p>
 
-<p align="left"> <a href="https://github.com/myat-thu-hein"> <img src="https://img.shields.io/badge/GitHub-myat--thu--hein-181717?style=for-the-badge&logo=github"/> </a> </p>
-<p align="center"> <b>Thanks for visiting my GitHub profile!</b> </p> ```
+---
+
+<p align="center">
+  <i>Open to learning, collaboration, and new opportunities.</i>
+</p>
