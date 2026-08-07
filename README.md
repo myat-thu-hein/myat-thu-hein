@@ -274,3 +274,18 @@ Computer Science Fundamentals
                 ├── JavaScript
                 ├── Tailwind CSS
                 └── React
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=myat-thu-hein&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myat-thu-hein&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</p> <p align="center">
+
+<img src="https://streak-stats.demolab.com?user=myat-thu-hein&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="left"> <a href="https://github.com/myat-thu-hein"> <img src="https://img.shields.io/badge/GitHub-myat--thu--hein-181717?style=for-the-badge&logo=github"/> </a> </p>
+<p align="center"> <b>Thanks for visiting my GitHub profile!</b> </p> ```
