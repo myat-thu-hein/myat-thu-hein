@@ -282,9 +282,6 @@ Computer Science Fundamentals
   I'm always interested in connecting with other developers,
   students, and technology enthusiasts.
 </p>
-
-## 🤝 Let's Connect
-
 ---
 
 <p align="left">
