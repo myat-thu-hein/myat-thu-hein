@@ -4,11 +4,6 @@
 Computer Science Student | Networking | Cloud Engineering | Web Development
 </h3>
 
-<p align="center">
-  Building my foundation in computer networks, cloud infrastructure,
-  software development, and modern web technologies.
-</p>
-
 ---
 
 ## 👨‍💻 About Me
