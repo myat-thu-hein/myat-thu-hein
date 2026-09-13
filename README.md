@@ -292,9 +292,9 @@ Computer Science Fundamentals
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://myatthuheinportfolio.vercel.app/">
+<!-- <a href="https://myatthuheinportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfolio"/>
-</a>
+</a> -->
 </p>
 <p align="center">
   <i>Open to learning, collaboration, and new opportunities.</i>
