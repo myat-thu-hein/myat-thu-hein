@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Myat Thu Hein</h1>
 
 <h3 align="center">
-Computer Science Student | Cloud Engineering | Web Development
+Cloud Computing | Web Development | CS Student @ Rangsit University
 </h3>
 
 ---
@@ -22,7 +22,7 @@ programming and data structure fundamentals.
 - 💻 Building projects with **Python, JavaScript, HTML & CSS**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🔧 Learning **Git, GitHub, Docker and developer tools**
-- 🚀 Working toward a career in **Networking / Cloud Engineering**
+- 🚀 Working toward a career in **Cloud Computing & Full Stack Development**
 
 ---
 
