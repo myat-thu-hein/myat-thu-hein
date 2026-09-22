@@ -64,50 +64,7 @@ Cloud, Infrastructure & Tools
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-🚀 Featured Projects
-
-Project
-
-Description
-
-Technologies & Concepts
-
-🔗 Linked List Playground
-
-Interactive tool for learning and visualizing linked-list operations.
-
-JavaScript, DOM, Data Structures
-
-📚 Stack & Queue Simulator
-
-Visual demonstration of stack and queue operations.
-
-JavaScript, Algorithms, Visualization
-
-🌐 DNS Operation
-
-Networking project that explores DNS and domain-name resolution.
-
-DNS, Networking, Client–Server Concepts
-
-🚆 Tokyo Rail Project
-
-Frontend project focused on page structure and interface organization.
-
-HTML, CSS, Frontend Development
-
-🏠 Real Estate Project
-
-Real-estate-style web interface with client-side application logic.
-
-JavaScript, UI Development, Web Development
-
-🐍 Python Projects
-
-Collection of programs created while developing programming fundamentals.
-
-Python, OOP, Algorithms, Problem Solving
-
+# 🚀 Featured Projects <table> <tr> <td width="50%" valign="top"> ### 🔗 Linked List Playground An interactive project for learning and visualizing linked list operations and fundamental data structures. **What I practiced:** - Linked list concepts - Node manipulation - Insert & delete operations - JavaScript - Data Structures & Algorithms <a href="https://github.com/myat-thu-hein/linked-list-playground"> View Repository → </a> </td> <td width="50%" valign="top"> ### 📚 Stack & Queue Simulator A JavaScript project designed to demonstrate how Stack and Queue data structures work. **What I practiced:** - Stack operations - Queue operations - Push / Pop - Enqueue / Dequeue - JavaScript logic - Data structure visualization <a href="https://github.com/myat-thu-hein/stack-queue-simulator"> View Repository → </a> </td> </tr> <tr> <td width="50%" valign="top"> ### 🌐 DNS Operation A networking-focused project exploring how the Domain Name System works and how domain names are resolved across networks. **Topics:** - DNS - Networking fundamentals - Name resolution - Client-server communication - Network infrastructure <a href="https://github.com/myat-thu-hein/DNS-Operation"> View Repository → </a> </td> <td width="50%" valign="top"> ### 🚆 Tokyo Rail Project A web-based project built using HTML and related frontend technologies. **What I practiced:** - HTML - Web page structure - Frontend development - UI organization - Project structure <a href="https://github.com/myat-thu-hein/tokyo-rail-project"> View Repository → </a> </td> </tr> <tr> <td width="50%" valign="top"> ### 🏠 Real Estate Project A JavaScript-based web development project focused on creating a real-estate-style application/interface. **What I practiced:** - JavaScript - Web development - Frontend logic - UI development - Project organization <a href="https://github.com/myat-thu-hein/Real-estate-project"> View Repository → </a> </td> <td width="50%" valign="top">
 📚 Currently Learning
 
 Full Stack Development: React, APIs, Node.js, backend architecture, and databases
