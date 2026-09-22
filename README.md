@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Myat Thu Hein</h1>
 
 <h3 align="center">
-Computer Science Student | Networking | Cloud Engineering | Web Development
+Computer Science Student | Cloud Engineering | Web Development
 </h3>
 
 ---
@@ -12,7 +12,7 @@ I'm a Computer Science student passionate about understanding how
 modern computer systems, networks, cloud platforms, and applications
 work together.
 
-My main focus is currently on **Networking and Cloud Engineering**,
+My main focus is currently on **Cloud Computing & Web Development**,
 while I also enjoy building web applications and strengthening my
 programming and data structure fundamentals.
 
