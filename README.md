@@ -77,21 +77,6 @@ Networking: TCP/IP, DNS, DHCP, routing, switching, and network security
 
 Computer Science: data structures, algorithms, object-oriented programming, and problem solving
 
-🗺️ Development Roadmap
-
-flowchart TD
-    A[Computer Science Foundations] --> B[Full Stack Development]
-    A --> C[Cloud Engineering]
-    B --> D[Frontend: React & Tailwind]
-    B --> E[Backend: Node.js, APIs & Databases]
-    C --> F[Linux, Networking & Security]
-    C --> G[Docker, CI/CD & Cloud Platforms]
-    E --> H[Build Full Stack Applications]
-    D --> H
-    F --> I[Deploy & Operate in the Cloud]
-    G --> I
-    H --> I
-
 🎯 Goals
 
 Build and deploy complete, production-style full stack applications
